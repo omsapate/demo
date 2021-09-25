@@ -7,6 +7,7 @@ def add(x,y):
 def subtract(x,y):
 	return x-y
 
+#header for divide fn
 def divide(x,y):
 	return x/y
 
